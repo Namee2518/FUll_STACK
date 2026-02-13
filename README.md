@@ -50,46 +50,35 @@ The application dynamically loads questions and updates the UI using **jQuery DO
 # 🖼️ Application Screenshots
 
 ---
+## 🖼️ Application Screenshots
 
-## 🟣 1️⃣ Quiz Home Interface
+### 1️⃣ Quiz Home Interface
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Namee2518/FUll_STACK/main/1.jpg" width="750">
-</p>
-
----
-
-## 🔵 2️⃣ Question Display & Navigation
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Namee2518/FUll_STACK/main/2.jpg" width="750">
-</p>
+![Quiz Home](https://github.com/Namee2518/FUll_STACK/raw/main/1.jpg)
 
 ---
 
-## 🟢 3️⃣ Validation Message (Answer Required)
+### 2️⃣ Question Display & Navigation
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Namee2518/FUll_STACK/main/3.jpg" width="750">
-</p>
+![Question Navigation](https://github.com/Namee2518/FUll_STACK/raw/main/2.jpg)
 
 ---
 
-## 🟡 4️⃣ Final Result Summary
+### 3️⃣ Validation Message
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Namee2518/FUll_STACK/main/4.jpg" width="750">
-</p>
+![Validation](https://github.com/Namee2518/FUll_STACK/raw/main/3.jpg)
 
 ---
 
-## 🔴 5️⃣ Correct Answer Review Section
+### 4️⃣ Final Result Summary
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Namee2518/FUll_STACK/main/5.jpg" width="750">
-</p>
+![Result](https://github.com/Namee2518/FUll_STACK/raw/main/4.jpg)
 
 ---
+
+### 5️⃣ Answer Review Section
+
+![Answer Review](https://github.com/Namee2518/FUll_STACK/raw/main/5.jpg)
 
 ## 🎯 Application Workflow
 
