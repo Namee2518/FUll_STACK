@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>KCET Learning - Interactive Quiz</title>
+    <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+<div class="quiz-container">
+    <h1>KCET Learning Quiz</h1>
+
+    <div id="quiz-box">
+        <div class="progress">
+            Question <span id="currentQ"></span> of <span id="totalQ"></span>
+        </div>
+
+        <h2 id="question"></h2>
+        <div id="options"></div>
+
+        <div class="buttons">
+            <button id="prevBtn">Previous</button>
+            <button id="nextBtn">Next</button>
+        </div>
+
+        <p id="error" class="error"></p>
+    </div>
+
+    <div id="result-box">
+        <h2>Quiz Result</h2>
+        <p id="score"></p>
+        <div id="answer-review"></div>
+        <button id="restartBtn">Restart Quiz</button>
+    </div>
+</div>
+
+<script src="script.js"></script>
+</body>
+</html>
